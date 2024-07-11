@@ -1,7 +1,7 @@
 ***Welcome to my Portfolio***
 
 ___
-***___ABOUT ME___***
+***ABOUT ME***
 
 
 
