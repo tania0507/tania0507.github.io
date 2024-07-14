@@ -5,21 +5,7 @@ I am *Tania* from Jalalabad West Dist. Fazilka.
 # About my Schooling 
 
 >I had completed my class 10th from Government Girls Senior Secondary Smart School, Jalalabad West by scoring 92.3% . Then I had completed my class 12th from Senior Secondary Residential School for Meritorious Students, Jalandhar by scoring 93.8%.
-```
-Let me share my class 12th scoring marks with you:-
 
-
-
-|SUBJECT|MARKS|
-|:------|----:|
-|Maths  |93|
-|Physics|90|
-|Chemistry|97|
-|English|97|
-|Punjabi|92|
-
-
-```
 ___
 
 # About my College 
