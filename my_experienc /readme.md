@@ -11,6 +11,7 @@ Let me share my class 12th scoring marks with you:-
 
 
 |SUBJECT|MARKS|
+|:------|:----|
 |Maths  |93|
 |Physics|90|
 |Chemistry|97|
