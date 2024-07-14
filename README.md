@@ -18,3 +18,7 @@ ___
 ***Extra Curricular Activities***
 
 Anchoring 
+
+
+# Blogs
+[view my blog](https://tania0507.github.io/my_experienc%20/)
