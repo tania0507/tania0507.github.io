@@ -43,6 +43,3 @@ This was upto now the time I had spent in the college.
 ```
 THANK YOU
 ```
-
-# Blogs
-[view my blog](https://tania0507.github.io/my_experienc%20/)
