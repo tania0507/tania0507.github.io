@@ -22,3 +22,5 @@ Anchoring
 
 # Blogs
 [view my blog](https://tania0507.github.io/my_experienc%20/)
+
+![My Excel Course Certificate](https://github.com/tania0507/tania0507.github.io/commit/ba3450ce7b1e0328f34681254c90f012ce3e0bbb)
