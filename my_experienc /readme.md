@@ -1,6 +1,6 @@
 *Hello everyone*
 ```
-I am *Tania* from Jalalabad West Dist. Fazilka.
+I am TANIA from Jalalabad West Dist. Fazilka.
 ```
 # About my Schooling 
 
@@ -30,16 +30,179 @@ ___
 
 ___
 
-# Day 3
+## Day 3 
 
 >On my third day,I was having lectures in the classrooms. In the first lecture we were interacted by the *college official website,exam pattern,telling about the getting of library pass* throughly by our seniors. And then the second lecture was of *Mathematics*. First we were asked to *introduce ourselves* and then our lecture was started by some *formulas related to basics* and then was given the homework by the techer.
 
 ___
 
-```
-This was upto now the time I had spent in the college.
-```
+## Day 4 
 
-```
-THANK YOU
-```
+>On my fourth day, I was having my lectures in Auditorioum. My first lecture was taken by *Dr. Randhir Sir* . He guided us for making profile on **GITHUB** and told us to make our own *website*. He told us steps to make our website which are as follows :-
+
+1. Open *Chrome* and search *github.com*.
+2. On the parallel side open *github pages*.
+3. Make your account by adding your *E-Mail* id and create your username and password.
+4. Then we have to verify our account by playing a puzzle. Thus verification is done and our account has been made.
+
+>These were the steps told by *Randhir Sir*.
+>
+>My second lecture was taken by *Dr. Pyara Lal Garg*. He was very experienced and talked about his teaching skills. He briefly explained us the importance of teachers.An amazing thing was that he used many proverbs. He told us about the *human behaviour* that Being adaptable, practical, and socially acceptable are characteristics of normal behaviour. It is behaviour that enables people to successfully interact with their surroundings and meet their daily needs.
+>
+>My third lecture was taken by *Sony Goyal* sir.  It was our pleasure thathe shared some insights on navigating the next four years with the acronym LIFE: Learning, Inquiring, Future orientation, and Exploring new ideas.
+>He emphasized the importance of giving your 100% and truly enjoying what you do. He said that *Believe in the power of your dreams and embrace every opportunity that comes your way, these years are pivotal, and embracing you with a positive and proactive mindset will pave the way for a successful future*.
+>
+>My fourth lecture was taken by *Mr.Pancham Sir*. He was *4th year Mechanical Engineering* student in **GNDEC**. Seeing him as the speaker of the day was really an inspiring moment. The way of his presentation was really effective. He tauhgt us about *Body Language*. He taught us that how we can judge the other person by their body gestures.
+>
+>### This was all about this day.
+___
+
+## Day 5
+
+>On the fifth day, firstly I was having my *coding class* by **Dr.Harpreet Rai** sir.
+>
+> After that we were having our *English activities* classes by our seniors. In this class we performed various activities such as - *Spell Bee Competition* , *Debate* , *Group Discussion* on the topic :-*College degree lead towards our successful life* . As our Activities were performed by our *seniors*, it was a huge inspiration for us that we should be all-rounder. Besides our Academics, we should also take part in other activities too which will help us in *enhancing our skills*, *boost our confidence*. Thus, this was an amazing day.
+
+___
+
+## Day 6
+
+>On the 6th day of my college,
+>
+>First, I was having my lecture of *Mathematics*. We were given the *questions* regarding *Integration* and *Differentiation* to solve. Problems were asked to be discuss in the class by our teacher. One by One, the student was asked to solve the question on th board. This was an interesting class.
+>
+>Further, my second lecture was of *UHV* [Universal Human Values] which refers to *education on values*. This lecture was taken by **Manjot Mam**. She explained us that  Universal Human value (UHV) plays an important role in the life of human beings at various stages including education and career.
+>The overall personality of an individual depends on family circle , school circle including friends and teachers and most vital is social circle which has a dominant impact on humanity & moral capabilities.
+>Education in Universal Human Value (UHV) is deeply essential to nourish the moral capabilities in the student & ultimately in society in a positive way.
+
+___
+
+## Day 7
+
+>On this day, my first lecture was of *UHV* by **Manjot Mam**.
+>
+>She told us the concept of *Co-existence of Self and Body* and *Understanding Harmony in the Family*.
+>
+>~She told us that *Human being is co-existence of the Self (Consciousness) and the Body (Material). This can be seen on the basis of exploring into the need, fulfilment of need, activity and response of the Self and the Body. In particular, the response of the body is definite while the response of the self depends on assuming*.
+>
+>~Further on the topic *Understanding Harmony in the Family* she told us that Harmony in the family is achieved through developing the right feelings in relationships, such as trust, respect, affection, care, guidance, reverence, glory, gratitude and love. These feelings lead to mutual happiness when one feels them within themselves and expresses them to others.
+>
+>
+>My second lecture was *Peer Interaction (technical)* by our *seniors*.
+>
+> Further , **Dr. Harwinder Singh(ANO)** inspired us  about the significance of  NCC and it's values. He gave us knowledge about what is *NCC*. He explained us that NCC (National Cadet Corps) is a Tri-Services Organisation comprising the Army, Navy and Air Force, engaged in grooming the youth – 'The Leaders of Tomorrow' – into disciplined and patriotic citizens. As a voluntary organization, NCC is administered through the Ministry of Defence.
+>
+># Benefits of opting NCC includes:-
+>
+>~SAHARA Scholarship for NCC cadets.
+>
+>~Expenses of uniforms and camps are beared by the government.
+>
+>~Chance to get selected in armed forces NDA.
+>
+>~Besides being position in armed forces, NCC also provides us life skills that serves us whole life.
+
+
+
+> Afterwards, there was the turn of our next speaker **Coordinator - NSS Er. Jasvir Singh Grewal**.
+>
+>He introduces us about the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opportunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
+>
+>He nurtured *social responsibility* through **NSS**.
+>
+># Aims and Objectives of NSS:-
+>
+>1. To understand the community in which they work.
+>   
+>2. To understand themselves in relation to their community.
+>   
+>3. To identify the needs and problems of the community and involve them in problem solving process
+>
+>4. To develop among themselves a sense of social and civic responsibility.
+>
+>5. To utilise their knowledge in finding practical solution to individual and community problems.
+>
+>6. To develop competence required for grouop-living and sharing of responsibilities.
+>
+>7. To gain skills in mobilising community participation.
+>
+>8. To acquire leadership qualities and democratic attitude.
+>
+>9. To develop capacity to meet emergencies and natural disasters.
+>
+>10. To practice national integration and social harmony.
+>
+
+___
+
+## Day 8
+
+>On this day, our first speaker of the day was **Er. Kanwardeep Kalra** mam. She intorduces us about The Journey from *Campus to Corporate* and *Building a Future Beyond the Classroom*. In addition with technical skills, Soft skills are also improtant. Without soft skills our technical skills are Zero.
+>
+>We also saw a role play by our seniors related to interviews that teaches us about how to behave during interviews and how to balance our confidence in front of interviewer.
+>
+>Moroeover she told :-
+>
+>
+># ABC of first impression:-
+>
+>~Appearance
+>
+>~Behaviour
+>
+>~Communication
+
+
+
+># Key points :-
+>
+>~It takes 7 seconds to form first impression.
+>
+>~Don’t use fillers in communication.
+>
+>~Most important thing- NETWORKING
+>
+>~Grrom yourself
+
+
+>Our second speaker was **Jaswinder Singh** sir who is *incharge* of **IAPT**(Indian Associaton of Physics Teachers). He is also the **National Awardee** , **State Awardee** , also awarded by **Shiksha Ratan** . 
+>
+>He illuminated our minds with *Physics* and *Mathematics*.  He said that everything in this world is connected with mathematics. He also gave suitable examples.  He intoduces the concept of induction and conduction also.He also gave us trick to know and understand about how many bones are in human body and the number of bones in each part of our body.
+
+
+>Now it was our time to visit our *COMPUTER SCIENCE AND ENGINEERING DEPARTMENT*.
+>
+># Department Vision :-
+>
+>To generate competent professionals to become part of the industry and research organizations at the national and international levels.
+
+># Department Mission :-
+>
+>a. Providing a strong theoretical and practical background across the computer science discipline with an emphasis on software development.
+>
+>b. Imparting the skills necessary to continue education to grow professional.
+>
+>c. Empowering the youth in rural communities with computer education.
+>
+>d. Inculcating professional behavior, strong ethical values, innovative research capabilities and leadership abilities.
+>
+># Two Societies/clubs under Computer Science Department:-
+>
+>~CSI- Computer society of India
+>
+>~Data Science Club
+>
+>
+>*Along with that,our professors also gave us details about the placements and training cells of campus. The previous highest package was went upto 51 lakhs*.
+>
+>Then we got information about the examination system.
+>
+> After the enlightening session, we had the opportunity to visit the computer lab.
+
+
+
+>**This was all about this day**.
+>
+___
+
+### TO BE CONTINUED...
