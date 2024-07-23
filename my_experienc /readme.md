@@ -203,6 +203,80 @@ ___
 
 >**This was all about this day**.
 >
+
 ___
 
+## Day 9
+
+>On the ninth day, our first speaker of the day was *Dr. S.B Singh*.
+>
+>He said that these *four* years of life are the most precious years of life. Our whole life depends upon these *four* years. After that he told us to tear a pin page from our notebook and said us to write our *name*, *section*, *branch*,*father's name*, *mother's name*, *mobile numbers of our and our parents* . After that he told us to write our *four qualities* and then *four weaknesses*, he also told us to write down our dream and what efforts we want to do in upcoming years in order to fulfill that dream and at last he told us to write few lines about *college*.
+>
+>This was really an *interesting* task to perform.
+>
+>
+>After him, our second speaker *Dr.Pushpinder Sir* addressed us.
+>
+>Firstly he explained types of learners that there are *three* types of *learners*. From all those I assumed myself as an *audiovision learner*, which first listen and then make notes to retain the information permanently.
+>
+>He also advised to set up SMART goals which he described as :-
+>
+>
+>~S =Specific
+>
+>~M =Measurment
+>
+>~A =Achivement
+>
+>~R =Realistic
+>
+>~T =Time
+>
+>
+>
+>He also decribed *communication* styles as :-
+>
+>
+>~Agressive
+>
+>~Passive
+>
+>~Assertive
+>
+>
+>
+>He said that we should always be *deaf* and *dumb* to negative people. He said to always be *fast*,*consistent* and do *SWOT analysis*, He instructed us to always remember that "*my competition is with myself only*" He said that we should learn from nature, For *self-management* we should learn from *honey bees*, For *flexibility* we should learn from *bamboo trees* as we all see that in thunderstorms, hard and straight trees often fall but on the other hand *bamboo trees* bents and remained protected.
+>
+>
+> He *motivated* us to achieve *success*,  to always believe in yourself and god.
+>
+___
+
+## Day 10
+
+>Today I was having my first lecture of *UHV* (Universal human values) by *Prof.Jasmine Kaur*.
+>
+>Firstly, she recapped all that we had studied in our previous lectures which were taken by *Manjot Mam*. Then she started further with our new topic which was *UNDERSTADING HARMONY IN THE SOCIETY*.
+>She discussed about the four basic *human goals* which are -
+>
+>~Right Understanding/Right feeling
+>
+>~Prosperity
+>
+>~Fearlessness
+>
+>~Co-existence
+>
+>Then she taught us about *four dimensions*. This lecture was very interesting.
+
+>Then the second lecture was of *BASICS OF CHEMISTRY* BY *Mandeep Kaur* mam. But the twist was that instead of reading *basics of chemistry* we studied some *basics of physics* by the teacher of *Physics*.
+>This happened due to the absence of *Mandeep Mam*. But we also enjoyed this class too by discussing about various facts of *Physics*.
+
+>This was all for this day.
+>
+>___
+
+
+```
 ### TO BE CONTINUED...
+```
