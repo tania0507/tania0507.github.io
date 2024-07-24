@@ -270,13 +270,52 @@ ___
 >Then she taught us about *four dimensions*. This lecture was very interesting.
 
 >Then the second lecture was of *BASICS OF CHEMISTRY* BY *Mandeep Kaur* mam. But the twist was that instead of reading *basics of chemistry* we studied some *basics of physics* by the teacher of *Physics*.
->This happened due to the absence of *Mandeep Mam*. But we also enjoyed this class too by discussing about various facts of *Physics*.
+>This happened due to the absence of *Mandeep Mam*. But we also enjoyed this class by discussing various facts of *Physics*.
 
 >This was all for this day.
+
+___
+
+
+## Day 11
+
+>Today is the eleventh day in our *college campus*. We met our first speaker of the day who was **Mr. Gauravdeep Singh**. He is a *Founder and Chairman of INITIATERS OF CHANGE*. He shared his whole *life journey* and *motivated* us. He is really a *blessed* soul.
 >
->___
+>At each and every moment he only asked us to be *happy* and *smile*. He also told us three *mantras* which are as -
+>
+>~*To find our Qualities*
+>
+>~*We have the power of whole universe*
+>
+>~*GOD always help us and do right for us*
+>
+>These were the three mantras told by our today's speaker. He told us to follow these everytime.
+>
 
+>The second speaker of the day was **Er. Lakhvir Singh**. He is *Co-ordinator* of CML.
+>
+>His lecture was very *knowledgeable*. He informed us about :-
+>
+>### Organs of CML -
+>
+>~NPTEL (MOOC Course)
+>
+>~Skill and personality development
+>
+>*Moreover about*-
+>
+>### MOOCs Achievements -
+>
+>~MOOCs (Massive Open Online Course)
+>
+>~NPTEL(National Programme on Technology Enhanced Learning)
+>
+>and many more...
+>
+>He also gave us the steps to register on *SWAYAM* where we can enroll in any *course* for free.
+>
 
+>Now after all the speakers, we were having interaction with our seniors who gave information about *Causmic Club*. This peer interaction was amazing.
 ```
 TO BE CONTINUED...
 ```
