@@ -22,7 +22,7 @@ ___
 
 ## Day 1 
 
->On the very first day of my college , I was bit nervous but all my nervousness ended when the beginning of the college started from *Gurudwara Sahib*. First we went here for kirtan . After kirtan there was the time of refreshment. After having this, we went for our attendance and then to the college*auditorium* . Alumni's were also invited as cheif guests . There were also many motivational speakers . They motivated us alot. *Alumni's* who themselves studied from this college were present as a cheif guests which was the best motivation for us. By the time the *induction programme* of day 1 was ended.
+>On the very first day of my college , I was bit nervous but all my nervousness ended when the beginning of the college started from *Gurudwara Sahib*. First we went here for kirtan . After kirtan there was the time of refreshment. After having this, we went for our attendance and then to the college *auditorium* . Alumni's were also invited as cheif guests . There were also many motivational speakers . They motivated us alot. *Alumni's* who themselves studied from this college were present as a cheif guests which was the best motivation for us. By the time the *induction programme* of day 1 was ended.
 
 ___
 
