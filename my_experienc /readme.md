@@ -315,7 +315,27 @@ ___
 >He also gave us the steps to register on *SWAYAM* where we can enroll in any *course* for free.
 >
 
->Now after all the speakers, we were having interaction with our seniors who gave information about *Causmic Club*. This peer interaction was amazing.
+>Now after all the speakers, we were having interaction with our seniors who gave information about *Causmic Club*. This peer interaction was amazing. We were given very informative knowledge about this club. Also for making such kind of environment, we have *singing* performances by our *seniors*.
+>
+
+___
+
+## Day 12
+
+>Today, I was having my *first lecture* of *CHEMISTRY*. This lecture was taken by **Prof. Karan Bhala**. Sir taught us *basics of *chemistry*. First sir started from *basics of organic chemistry* and taught us the very basics.
+>
+>Then sir taught us the *basics of inorganic chemistry* and then the *basics of physical chemistry*. We read all the basics of *chemistry* in this class.
+>
+
+>Then my *second lecture* was of *UHV* by **Prof. Manjot kaur**. We discussed all that we had read in our previous lectures of UHV. Also *GD* (Group Discussion) was conducted on the topics based on *UHV*.
+>
+
+>In my *third lecture*, I was having my *MATHEMATICS* test. It included the questions of *Integration* and *Differentiation*.
+>
+>This was all about this day.
+>
+
+
 ```
 TO BE CONTINUED...
 ```
