@@ -9,11 +9,13 @@ I am TANIA from Jalalabad West Dist. Fazilka.
 ___
 
 # About my College 
->Currently I am persuing *B.Tech* in *CSE* department from ***Guru Nanak Dev Engineering College, Ludhiana***. I am hosteller. This is the *golden opportunity* for me to be part of this college.
+>Currently I am pursuing *B.Tech* in *CSE* department from ***Guru Nanak Dev Engineering College, Ludhiana***. I am hosteller. This is the *golden opportunity* for me to be part of this college.
 
-___
 
->First Day in my hostel was on 8th July,2024.This was that grateful day on which I entered into that campus which will turn out my life with great ups and downs.The experiences which i will learn from this campus will always be a part throughout my journey.
+![My College](Screenshot_2024_0725_205927.jpg)
+
+
+>First Day in my hostel was on 8th July,2024.This was that grateful day on which I entered into that campus which will turn out my life with great ups and downs. The experiences which I will learn from this campus will always be a part throughout my journey.
 >I want my journey to be very exciting.
 
 ___
