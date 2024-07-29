@@ -332,9 +332,27 @@ ___
 >In my *third lecture*, I was having my *MATHEMATICS* test. It included the questions of *Integration* and *Differentiation*.
 >
 >This was all about this day.
+> 
+
+## Day 13
+
+>Today, our first speaker of the day is **Dr.Kanwalpreet Kaur Bhatt**. She is *Homopaethic Practioner*. She is having *twenty years* of practice and is practising more. She is a *meditation counseller*.
+>She gave us *basics of meditation*. This lecture was such an amazing lecture. We learnt the right way of doing *meditation*.
+>
+
+>Now after our meditation class,there was our *Valedictory Session*. We had a lot of fun in this sesssion as this was also are last day of **SIP**(Student Induction Program). This was all well organised by the *teachers* and our *seniors*. There were many performances like *singing, dancing which included gidha and bhangra, Mimicry*. We were having a lot of fun there.
 >
 
 
+>### This was all about STUDENT INDUCTION PROGRAM.
+>This was the last day of this Program.
+
+
+
+>### I would like to conclude that - 
+>*This was a different experience as I had no idea about this college but this induction program helped me to know about GNDEC and about different societies and clubs . We had very motivationtal speakers which motivated us about different things and taught us life changing things . I am so graeful to be a part of this college.*
+
+
 ```
-TO BE CONTINUED...
+THANK YOU
 ```
